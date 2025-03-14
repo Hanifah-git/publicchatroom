@@ -1,0 +1,10 @@
+[debug] [2025-03-14T03:49:15.803Z] ----------------------------------------------------------------------
+[debug] [2025-03-14T03:49:15.805Z] Command:       /usr/local/bin/node /Users/haneefah/.npm-global/bin/firebase login
+[debug] [2025-03-14T03:49:15.805Z] CLI Version:   13.34.0
+[debug] [2025-03-14T03:49:15.805Z] Platform:      darwin
+[debug] [2025-03-14T03:49:15.805Z] Node Version:  v22.13.1
+[debug] [2025-03-14T03:49:15.805Z] Time:          Fri Mar 14 2025 10:19:15 GMT+0630 (Myanmar Time)
+[debug] [2025-03-14T03:49:15.805Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
