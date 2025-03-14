@@ -1,0 +1,1 @@
+import{A as o}from"./main-IRJRTn-X.js";import{U as n}from"./uielement-CLyhsJix.js";const s=document.getElementById("userinfo"),t=document.getElementById("logoutbtn"),l=o(),c=n(s);l.getUser(e=>{c.userInfoEle(e)});t.addEventListener("click",()=>{console.log("logged out successfully")});t.addEventListener("click",()=>{const{logoutUser:e}=o();e()});

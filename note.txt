@@ -154,3 +154,17 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 => Deploy on Cloud Server
 
 1. Create a public/private repository on Github
+
+2. siginin to your https://render.com/
+
+3. Prepare the build output
+   ypur project must builded and typically located in the "dist" directory
+
+4. Create a new static site
+click > "New +" Static Site > Github > your account > choose repo > click > connect
+
+5. Name : publicchatroom
+ Branch: main
+ Build Command : npm run build ( React, Vue vite, etc...), ng build (Angular)
+
+6. Environment Variables = copy paste .env data to 
